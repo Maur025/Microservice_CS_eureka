@@ -7,7 +7,7 @@ Java (Versión 17.+.+) Compatible con la version de SpringBoot<br>
 
 ## Instrucciones de Ejecución:
 
-jecuta el proyecto en el IDE de java (de tu preferencia), eso hara que se reconozca el proyecto y maven instale las dependencias. <br>
+Ejecuta el proyecto en el IDE de java (de tu preferencia), eso hara que se reconozca el proyecto y maven instale las dependencias. <br>
 
 ### Realiza la ejecucion de los Microservicios en el siguiente orden:
 
