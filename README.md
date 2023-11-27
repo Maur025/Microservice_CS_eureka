@@ -1,4 +1,4 @@
-Microservicio 1: Config
+Microservicio 2: Eureka
 Tecnologías Utilizadas:
 SpringBoot (Versión 3.2.0)
 Java (Versión 17.+.+) Compatible con la version de SpringBoot
